@@ -1,0 +1,5 @@
+name: 'BigText Editor'
+type: module
+description: 'Big Text Editing'
+package: Other
+core_version_requirement: '^8 || ^9'
